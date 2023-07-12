@@ -1,2 +1,2 @@
-# samsung-firmware
+# Samsung Firmware
 Download Samsung firmware

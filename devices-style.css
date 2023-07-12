@@ -1,0 +1,58 @@
+@font-face {
+  font-family: GidoleRegular;
+  src: url(res/Gidole-Regular.ttf);
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: GidoleRegular;
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  margin: 0px;
+  padding: 0px;
+}
+
+.topbar {
+  background-color: #181818;
+  display: table;
+  width: 100%;
+}
+
+.topbartitle {
+  display: table-cell;
+  padding: 5px;
+  font-size: 21px;
+}
+
+.devicesbtn {
+  text-align: right;
+  padding: 10px;
+  float: top;
+  overflow: hidden;
+}
+
+.s7edgeexynos {
+  margin: 0px;
+  padding: 30px;
+}
+
+.img1 {
+  width: 20%;
+  height: 20%;
+  float: left;
+  overflow: hidden;
+}
+
+.titleanddesc1 {
+  float: left;
+  overflow: hidden;
+}
+
+.downloadbtn1 {
+  float: left;
+  overflow: hidden;
+}
